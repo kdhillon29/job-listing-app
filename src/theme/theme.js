@@ -2,10 +2,12 @@ import { createMuiTheme } from "@material-ui/core";
 
 const primary = "#18E1D9";
 const secondary = "#0B0B15";
+const heading=   "#FF00FF";
 
 export default createMuiTheme({
   typography: {
     fontFamily: "Poppins, sans-serif",
+    
   },
   palette: {
     primary: {
