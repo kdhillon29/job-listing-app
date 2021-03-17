@@ -47,5 +47,14 @@ export default createMuiTheme({
         padding: "0px 0 0 10px",
       },
     },
+    MuiChip:{
+     root:{
+       clickable:{},
+       clickableColorPrimary:{},
+      
+      } 
+    }
+      
+    
   },
 });
